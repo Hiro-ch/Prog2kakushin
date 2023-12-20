@@ -1,1 +1,6 @@
-# Prog2kakushin
+# プログラム1について
+プログラムの概要
+* 主にPandasを使用しています。
+* 日々の食生活においてPFCバランスは気にしていますか？あなたが入力した食べ物・飲み物の合計のカロリーやタンパク質、脂質、炭水化物を計算します。さらに、PFCバランスを円グラフで表示し一目で分かりやすいようにしました。
+* 栄養成分表のcsvファイルは以下のページからダウンロードしました。
+参照:[栄養成分表](https://www.kaggle.com/datasets/niharika41298/nutrition-details-for-most-common-foods)
