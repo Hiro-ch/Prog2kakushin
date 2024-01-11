@@ -10,9 +10,24 @@
 2. 食べ物の番号を辞書型で表示される食べ物から選択します。
 3. その食べ物・飲み物の使用する容量(g)を入力してください。
 4. 1〜3の操作を終了し計算結果を表示したい場合は0を、引き続き操作を再開したい場合は1を入力してください。
-![入力画像](https://github.com/Hiro-ch/Prog2kakushin/assets/77562519/e48225a2-7688-43a3-8159-d6d1fbbe8f6d)
+![Pandas入力画像](https://github.com/Hiro-ch/Prog2kakushin/assets/77562519/e48225a2-7688-43a3-8159-d6d1fbbe8f6d)
 
-結果の表示
+出力
 * 合計のカロリーやタンパク質、脂質、炭水化物の結果が表示されます。
 * PFCの円グラフにより、PFCバランスが偏っていないか確認することができます。
-![結果の表示](https://github.com/Hiro-ch/Prog2kakushin/assets/77562519/2c9413bd-d485-43e4-91a3-659e2c428861)
+![Pandas出力画像](https://github.com/Hiro-ch/Prog2kakushin/assets/77562519/2c9413bd-d485-43e4-91a3-659e2c428861)
+
+
+# プログラム2について
+プログラムの概要
+* 主にNumpyとmatplotlibを使用しています。
+* あなたが入力した三つの点の座標を通る平面の方程式を求めます。そして、matplotlibを用いて三次元のグラフを作成します。
+
+入力方法
+1. それぞれの座標を-10から10までの整数で入力してください。
+![Numpy入力画像](https://github.com/Hiro-ch/Prog2kakushin/assets/77562519/789e845e-60f7-444b-a68c-b2dfe9ec0a66)
+
+出力
+* それぞれの座標やベクトル、法線ベクトルを表示します。
+* 最終的にmatplotlibの三次元のグラフで具体的な平面を確認することができます。
+![Numpy出力画像](https://github.com/Hiro-ch/Prog2kakushin/assets/77562519/9778310e-9f2a-4f38-99b6-0f1094ad4088)
